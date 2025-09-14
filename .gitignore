@@ -1,0 +1,14 @@
+# ignorer le dossier Archive
+Archive/
+
+# ignorer fichiers système macOS
+.DS_Store
+._*
+
+# ignorer fichiers temporaires
+*.tmp
+*.log
+*.swp
+
+
+
