@@ -49,12 +49,10 @@ The **presentation booth** included a poster summarizing the problem, solution, 
 
 ## 🧑‍💻 Team Members
 
-- Tania
-- Abirham Amalta
-- Lina
-- Imad
-- Chahia
-- Yassine
+- Lina Azzouzi
+- Imad EL Bacha
+- Ahmed Yassine Ben Ayed
+- Aminata Aliou
 
 ## 🏫 Academic Context
 
