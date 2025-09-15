@@ -1,4 +1,4 @@
-# Arduino-Based Linear Actuator with Stepper Motor – Ongoing Project
+# 2D Mini printer Arduino-Based Linear Actuator with Stepper Motor – Ongoing Project
 
 This repository documents the design, partial construction, and testing of a linear actuator driven by a **28BYJ-48 stepper motor** and **Arduino Nano**, intended for precision movement applications (e.g., small CNC systems or automated mechanisms).
 
